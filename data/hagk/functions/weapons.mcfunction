@@ -1,0 +1,3 @@
+give @p[team=HUNTER,gamemode=adventure,nbt=!{Inventory:[{id:"minecraft:trident",tag:{hunter:1b}}]}] minecraft:trident{display:{Name:'{"text":"TriPoke2","color":"light_purple","italic":true}',Lore:['{"text":"This kills people","color":"black","obfuscated":true}']},Unbreakable:1b,hunter:1b,Enchantments:[{id:"minecraft:unbreaking",lvl:3s},{id:"minecraft:loyalty",lvl:3s},{id:"minecraft:impaling",lvl:10s},{id:"minecraft:channeling",lvl:10s}]} 1
+give @p[team=HUNTER,gamemode=adventure,nbt=!{Inventory:[{id:"minecraft:ender_pearl"}]}] minecraft:ender_pearl 1
+clear @p[team=!HUNTER,nbt={Inventory:[{id:"minecraft:trident",tag:{hunter:1b}}]}] minecraft:trident{hunter:1b}

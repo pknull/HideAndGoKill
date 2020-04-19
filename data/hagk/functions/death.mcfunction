@@ -1,0 +1,1 @@
+scoreboard players set @p[team=HUNTED,scores={hunted_death=1..}] hunter_buffer 1
