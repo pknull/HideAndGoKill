@@ -6,7 +6,7 @@ gamerule doWeatherCycle true
 gamerule doMobSpawning true
 gamerule doPatrolSpawning true
 gamerule doTraderSpawning true
-gamerule naturalRegeneration false
+gamerule naturalRegeneration true
 gamerule doInsomnia true
-gamerule keepInventory true
-gamerule mobGriefing false
+gamerule keepInventory false
+gamerule mobGriefing true
