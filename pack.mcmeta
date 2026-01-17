@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 5,
-        "description": "Hide and Go Kill"
+        "pack_format": 61,
+        "supported_formats": [48, 100],
+        "description": "Hide and Go Kill - A hunter vs hunted PvP minigame"
     }
 }

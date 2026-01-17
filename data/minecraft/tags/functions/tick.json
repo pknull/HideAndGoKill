@@ -1,10 +1,8 @@
 {
 	"values":[
-        "hagk:buffs",
         "hagk:death",
         "hagk:hunter",
         "hagk:hunted",
-        "hagk:leave_game",
-        "hagk:weapons"
+        "hagk:leave_game"
 	]
 }
