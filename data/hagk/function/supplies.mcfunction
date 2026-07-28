@@ -1,0 +1,2 @@
+# Hunters keep one tagged pearl. Offhand is checked separately from container slots.
+execute as @a[tag=hagk.participant,team=HUNTER,gamemode=adventure] unless items entity @s container.* minecraft:ender_pearl[custom_data~{hagk:{item:"hunter_pearl"}}] unless items entity @s weapon.offhand minecraft:ender_pearl[custom_data~{hagk:{item:"hunter_pearl"}}] run give @s minecraft:ender_pearl[custom_data={hagk:{item:"hunter_pearl"}}] 1
